@@ -10,4 +10,8 @@ python SMSBOMB.py
 
 
 # Notice
-just try & fun.
+︻╦デ╤━╼ just try & fun.
+
+━━━ • ✙ • ━━━ Do everything on your own risk.🌚
+
+ ━━━ • ✙ • ━━━ I'm not responsible for any illegal activities🤠😕
