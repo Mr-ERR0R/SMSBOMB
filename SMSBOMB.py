@@ -36,7 +36,7 @@ for count in range(1, amount + 1):
 
   except:
       print(f"[×] {count} SMS Not Sent.")
-      time.sleep(10)
+      time.sleep(1)
       count+=1
 
   count += 1             
