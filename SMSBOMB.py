@@ -33,16 +33,16 @@ for count in range(1, amount + 1):
     
     if status == 200:
       print(f"[✓] {count} SMS Sent.")
-    time.sleep(.5)
-    sent += .5
-    count += .5
+    time.sleep(1)
+    sent += 1
+    count += 1
 
   except:
       print(f"[×] {count} SMS Not Sent.")
-      time.sleep(.5)
-      count+=.5
+      time.sleep(1)
+      count+=1
 
-  count += .5             
+  count += 1             
             
 totalhit  = amount
 nsent     = totalhit - sent
